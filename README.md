@@ -21,7 +21,7 @@ Feel free to make a pull request if you want to make improvements.
 Demo
 ----
 
-[Click here](http://mgakashim.com/contact-demo "Demo") to see a demo.
+[Click here](http://phayse.com/contact.php "Demo") to see a demo.
 
 Bugs
 ----
@@ -31,7 +31,7 @@ Email me at me [at] mgakashim [dot] com  or tweet [@ad7863](http://www.twitter.c
 License
 -------
 
-This is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
+This is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE. Some parts of the code may be licensed under other licenses, see these files for further information.
 
 > DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE Version 2, December 2004
 
