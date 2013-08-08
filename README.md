@@ -14,7 +14,8 @@ Follow these instructions to get the form working:
 2. Go to http://www.google.com/recaptcha/whyrecaptcha and press 'Sign up Now', enter a domain name and press 'Create Key'.
 3. In the contact.php file, go to line 104 and add your public key in between the quotes.
 4. In the mail.php file, go to line 8 and add your private key in between the quotes.
-5. Upload all files to a server with the PHP mail() extension installed to use.
+5. In the mail.php file again, go to line 46 and add the email address you want the emails sent to.
+6. Upload all files to a server with the PHP mail() extension installed to use.
 
 Feel free to make a pull request if you want to make improvements.
 
