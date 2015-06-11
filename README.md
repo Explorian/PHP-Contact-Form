@@ -22,7 +22,7 @@ Feel free to make a pull request if you want to make improvements.
 Bugs
 ----
 
-Email me at me [at] mgakashim [dot] com  or tweet [@ad7863](http://www.twitter.com/ad7863 "AD7863 on Twitter") if you find anything wrong with it.
+Email me at me [at] mgakashim [dot] com if you find anything wrong with it.
 
 License
 -------
